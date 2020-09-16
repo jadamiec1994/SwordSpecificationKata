@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{7327AE4C-0CA2-427B-ACEF-82A590C84796}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Logic/Objects/GetSwords.cs">
+    <Files>
+      <File FileName="SwordSpecificationKata/Program.cs" Line="12" Column="2" />
+      <File FileName="Logic/Models/SwordModel.cs" Line="14" Column="65" />
+      <File FileName="Logic/Objects/SwordsObject.cs" Line="11" Column="10" />
+      <File FileName="Logic/Interfaces/ISwordSpecification.cs" Line="11" Column="1" />
+      <File FileName="Logic/Specifications/SwordYearSpecification.cs" Line="21" Column="2" />
+      <File FileName="Logic/Specifications/SwordHasBeenInBattleSpecification.cs" Line="19" Column="6" />
+      <File FileName="Logic/Objects/GetSwords.cs" Line="7" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SwordSpecificationKata" expanded="True">
+            <Node name="Logic" expanded="True">
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Objects" expanded="True">
+                <Node name="GetSwords.cs" selected="True" />
+              </Node>
+              <Node name="Specifications" expanded="True" />
+            </Node>
+            <Node name="SwordSpecificationKata" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Logic FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SwordSpecificationKata FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

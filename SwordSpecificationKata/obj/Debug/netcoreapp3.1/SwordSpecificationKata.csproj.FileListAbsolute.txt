@@ -1,0 +1,15 @@
+/Users/jordanadamiec/Projects/SwordSpecificationKata/SwordSpecificationKata/bin/Debug/netcoreapp3.1/SwordSpecificationKata.deps.json
+/Users/jordanadamiec/Projects/SwordSpecificationKata/SwordSpecificationKata/bin/Debug/netcoreapp3.1/SwordSpecificationKata.runtimeconfig.json
+/Users/jordanadamiec/Projects/SwordSpecificationKata/SwordSpecificationKata/bin/Debug/netcoreapp3.1/SwordSpecificationKata.runtimeconfig.dev.json
+/Users/jordanadamiec/Projects/SwordSpecificationKata/SwordSpecificationKata/bin/Debug/netcoreapp3.1/SwordSpecificationKata.dll
+/Users/jordanadamiec/Projects/SwordSpecificationKata/SwordSpecificationKata/bin/Debug/netcoreapp3.1/SwordSpecificationKata.pdb
+/Users/jordanadamiec/Projects/SwordSpecificationKata/SwordSpecificationKata/bin/Debug/netcoreapp3.1/Logic.dll
+/Users/jordanadamiec/Projects/SwordSpecificationKata/SwordSpecificationKata/bin/Debug/netcoreapp3.1/Logic.pdb
+/Users/jordanadamiec/Projects/SwordSpecificationKata/SwordSpecificationKata/obj/Debug/netcoreapp3.1/SwordSpecificationKata.csprojAssemblyReference.cache
+/Users/jordanadamiec/Projects/SwordSpecificationKata/SwordSpecificationKata/obj/Debug/netcoreapp3.1/SwordSpecificationKata.AssemblyInfoInputs.cache
+/Users/jordanadamiec/Projects/SwordSpecificationKata/SwordSpecificationKata/obj/Debug/netcoreapp3.1/SwordSpecificationKata.AssemblyInfo.cs
+/Users/jordanadamiec/Projects/SwordSpecificationKata/SwordSpecificationKata/obj/Debug/netcoreapp3.1/SwordSpecificationKata.csproj.CoreCompileInputs.cache
+/Users/jordanadamiec/Projects/SwordSpecificationKata/SwordSpecificationKata/obj/Debug/netcoreapp3.1/SwordSpecificationKata.csproj.CopyComplete
+/Users/jordanadamiec/Projects/SwordSpecificationKata/SwordSpecificationKata/obj/Debug/netcoreapp3.1/SwordSpecificationKata.dll
+/Users/jordanadamiec/Projects/SwordSpecificationKata/SwordSpecificationKata/obj/Debug/netcoreapp3.1/SwordSpecificationKata.pdb
+/Users/jordanadamiec/Projects/SwordSpecificationKata/SwordSpecificationKata/obj/Debug/netcoreapp3.1/SwordSpecificationKata.genruntimeconfig.cache

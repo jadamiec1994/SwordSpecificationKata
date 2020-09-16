@@ -1,0 +1,112 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jordanadamiec/Projects/SwordSpecificationKata/SwordSpecificationKata/SwordSpecificationKata.csproj": {}
+  },
+  "projects": {
+    "/Users/jordanadamiec/Projects/SwordSpecificationKata/Logic/Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jordanadamiec/Projects/SwordSpecificationKata/Logic/Logic.csproj",
+        "projectName": "Logic",
+        "projectPath": "/Users/jordanadamiec/Projects/SwordSpecificationKata/Logic/Logic.csproj",
+        "packagesPath": "/Users/jordanadamiec/.nuget/packages/",
+        "outputPath": "/Users/jordanadamiec/Projects/SwordSpecificationKata/Logic/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jordanadamiec/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jordanadamiec/Projects/SwordSpecificationKata/SwordSpecificationKata/SwordSpecificationKata.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jordanadamiec/Projects/SwordSpecificationKata/SwordSpecificationKata/SwordSpecificationKata.csproj",
+        "projectName": "SwordSpecificationKata",
+        "projectPath": "/Users/jordanadamiec/Projects/SwordSpecificationKata/SwordSpecificationKata/SwordSpecificationKata.csproj",
+        "packagesPath": "/Users/jordanadamiec/.nuget/packages/",
+        "outputPath": "/Users/jordanadamiec/Projects/SwordSpecificationKata/SwordSpecificationKata/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jordanadamiec/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/jordanadamiec/Projects/SwordSpecificationKata/Logic/Logic.csproj": {
+                "projectPath": "/Users/jordanadamiec/Projects/SwordSpecificationKata/Logic/Logic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
